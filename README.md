@@ -1,1 +1,4 @@
-# Flappy-Bird---Unity-C-
+Flappy bird development with Unity & C#
+This is a remake of the Flappy Bird it contains a main menu, sounds, obstacles, score and highscore. The player needs to pass between the pipes without touching them or the ground. The score counts each time and only the highest is stored. The difference with the original game is that this version contains a coins generator - where the player can collect coins and add points to the score and a diamond genarator - where the player collects diamonds that reduses the range of the movement and this results in a more stable movement that helps to achieve a highscore, this power up lasts for 5 seconds.
+The basic setup of the game is based on this YouTube tutorial: https://www.youtube.com/watch?v=MrtniEypydc&list=PLe1zD2BokEtzZ_cIvYTz_7X0xS-e4ss9N&ab_channel=BroskisGames
+The link to itch.io:
